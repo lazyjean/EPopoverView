@@ -8,11 +8,11 @@
 
 Pod::Spec.new do |s|
   s.name             = 'EPopoverView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of EPopoverView.'
+  s.version          = '0.1.1'
+  s.summary          = '弹出浮层组件.'
 
   s.description      = <<-DESC
-  弹出浮层，点击空白消失
+  弹出浮层，点击空白消失. 简单易用
                        DESC
 
   s.homepage         = 'https://github.com/lazyjean/EPopoverView'
