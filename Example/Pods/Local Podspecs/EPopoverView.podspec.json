@@ -1,0 +1,22 @@
+{
+  "name": "EPopoverView",
+  "version": "0.1.0",
+  "summary": "A short description of EPopoverView.",
+  "description": "弹出浮层，点击空白消失",
+  "homepage": "https://github.com/lazyjean/EPopoverView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lazyjean": "lazyjean@foxmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lazyjean/EPopoverView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EPopoverView/Classes/**/*"
+}

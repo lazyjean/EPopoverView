@@ -1,0 +1,6 @@
+framework module EPopoverView {
+  umbrella header "EPopoverView-umbrella.h"
+
+  export *
+  module * { export * }
+}

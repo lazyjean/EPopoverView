@@ -1,0 +1,6 @@
+framework module Pods_EPopoverView_Tests {
+  umbrella header "Pods-EPopoverView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

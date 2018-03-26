@@ -1,0 +1,16 @@
+PODS:
+  - EPopoverView (0.1.0)
+
+DEPENDENCIES:
+  - EPopoverView (from `../`)
+
+EXTERNAL SOURCES:
+  EPopoverView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EPopoverView: f7686350860f353b4480f465d3847b111b5bdc5c
+
+PODFILE CHECKSUM: 7f9b2f585e80b7a2f70a822b3fac366d9db2727f
+
+COCOAPODS: 1.4.0

@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		054C5C7DFB5DAD8422DE0F9A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		12407ABBDBE123CDBECBA8E4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		054C5C7DFB5DAD8422DE0F9A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		12407ABBDBE123CDBECBA8E4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5AF25BA2602F3193F6D0B724 /* Pods-EPopoverView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EPopoverView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-EPopoverView_Tests/Pods-EPopoverView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5E9F9EC117E6BC27FCEB39ED /* Pods-EPopoverView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EPopoverView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EPopoverView_Example/Pods-EPopoverView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* EPopoverView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EPopoverView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -65,7 +65,7 @@
 		9900EB04D693A2AD0E3D58B0 /* Pods_EPopoverView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EPopoverView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE81A0ECC887510B5C7603EF /* Pods-EPopoverView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EPopoverView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EPopoverView_Tests/Pods-EPopoverView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		EB9D860F3D177FCBB87B9373 /* Pods_EPopoverView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EPopoverView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC459E722055819FE33FE663 /* EPopoverView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = EPopoverView.podspec; path = ../EPopoverView.podspec; sourceTree = "<group>"; };
+		EC459E722055819FE33FE663 /* EPopoverView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EPopoverView.podspec; path = ../EPopoverView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F4B34F2F1697800F2C3A2AAF /* Pods-EPopoverView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EPopoverView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-EPopoverView_Example/Pods-EPopoverView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
