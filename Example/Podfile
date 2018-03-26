@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EPopoverView_Example' do
+  pod 'EPopoverView', :path => '../'
+
+  target 'EPopoverView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
